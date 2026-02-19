@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "42150545241",
+    "project_id": "urbanserve-2f5e2",
+    "storage_bucket": "urbanserve-2f5e2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42150545241:android:f9a50a4d3048fa631bee48",
+        "android_client_info": {
+          "package_name": "com.example.service_provider_booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42150545241-dceb89agjq5e947jvemk12stcsni2f7v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.service_provider_booking",
+            "certificate_hash": "d8d3a038307a7232d8ebbdc9791e4e199c140b2e"
+          }
+        },
+        {
+          "client_id": "42150545241-r5pbjo5blu521trfdvra0ea4gfd00gei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdQbO8b8vewrEWF04Gq64IIQAn6zCVomU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42150545241-r5pbjo5blu521trfdvra0ea4gfd00gei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
